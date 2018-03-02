@@ -29,7 +29,7 @@ Plugin in the Blog Sidebar Widgets.
 
 ### Front-End
 
-Contact Form.
+Contact Form - Plugin seen by the user.
 
 ![](https://github.com/goncaloperes/Project-WP-ContactWidget/blob/master/Snapshots/widget_frontend.jpg)
 
