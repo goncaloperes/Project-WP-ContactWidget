@@ -1,4 +1,6 @@
 # [WP-ContactWidget](https://github.com/goncaloperes/Project-WP-ContactWidget)
+![](https://img.shields.io/badge/Version-1.0-blue.svg) 
+![](https://img.shields.io/badge/License-MIT-green.svg)
 
 <table>
 <tr>
@@ -8,9 +10,6 @@
 </td>
 </tr>
 </table>
-
-### Version
-1.0
 
 
 ---
